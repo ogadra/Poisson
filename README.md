@@ -10,10 +10,13 @@ Lambdaを変化させたときのグラフの変化を可視化しています�
 Python3
 
 -- Graph 作成 --
+
 scipy
 matploglib
 
+
 -- GIF 作成 --
+
 PIL
 
 ### 使い方
